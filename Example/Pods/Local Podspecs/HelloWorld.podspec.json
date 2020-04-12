@@ -1,0 +1,22 @@
+{
+  "name": "HelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of HelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AsafZalcman-jfrog/HelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AsafZalcman-jfrog": "asafz@jfrog.com"
+  },
+  "source": {
+    "git": "https://github.com/AsafZalcman-jfrog/HelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HelloWorld/Classes/**/*"
+}

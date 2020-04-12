@@ -1,0 +1,16 @@
+PODS:
+  - HelloWorld (0.1.0)
+
+DEPENDENCIES:
+  - HelloWorld (from `../`)
+
+EXTERNAL SOURCES:
+  HelloWorld:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloWorld: f5bbd3f3f15054350a429e044a3ba7b068d10da8
+
+PODFILE CHECKSUM: bd457e3f27111052dc0e48b03762d5bb44625265
+
+COCOAPODS: 1.9.1
